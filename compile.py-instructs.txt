@@ -1,1 +1,7 @@
-python nss_compiler.py [input_file] [output_file]
+
+Open a terminal or command prompt and navigate to the directory where the "nss_compile.py" script and your NSS code file are located.
+
+To compile your NSS code, run the following command: python nss_compiler.py [input_file] [output_file]
+
+Replace [input_file] [output_file] with the actual file name of your NSS code.
+
