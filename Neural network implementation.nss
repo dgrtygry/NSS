@@ -3,7 +3,7 @@ function neural_network {
     # Training function
     function train {
         # Online dictionary training data
-        training_data = [
+        training_data = [https://raw.githubusercontent.com/titoBouzout/Dictionaries/master/Spanish.txt]
             "hello",
             "world",
             "how",
